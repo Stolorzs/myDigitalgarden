@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/java/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/Java概述/","dgPassFrontmatter":true}
 ---
 
 #### Java应用
