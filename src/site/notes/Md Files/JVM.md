@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/jvm/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/JVM/","dgPassFrontmatter":true}
 ---
 
 - #### JVM(Java虚拟机)——JVM Java virtual machine
