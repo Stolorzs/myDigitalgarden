@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/for-while-do-while/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/循环控制(for, while, do while, 多重循环)/","dgPassFrontmatter":true}
 ---
 
 - [空降](https://www.bilibili.com/video/BV1fh411y7R8?t=2.8&p=122) 
