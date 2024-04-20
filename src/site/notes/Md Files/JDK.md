@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/jdk/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/JDK/","dgPassFrontmatter":true}
 ---
 
 - #### JDK(Java开发工具包)
