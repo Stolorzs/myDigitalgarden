@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/continue/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/continue/","dgPassFrontmatter":true}
 ---
 
 - 基本介绍：
