@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/for/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/练习题-for循环控制/","dgPassFrontmatter":true}
 ---
 
 ![练习题-for循环控制-1.png](/img/user/Pictures/%E7%BB%83%E4%B9%A0%E9%A2%98-for%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6-1.png)
