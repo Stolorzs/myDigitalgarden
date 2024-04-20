@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/string/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/String和基本数据类型转换/","dgPassFrontmatter":true}
 ---
 
 
