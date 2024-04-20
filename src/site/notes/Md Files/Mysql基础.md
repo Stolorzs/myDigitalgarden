@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/mysql/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/Mysql基础/","dgPassFrontmatter":true}
 ---
 
