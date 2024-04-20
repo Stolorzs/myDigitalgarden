@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/if/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/练习题-if分支控制/","dgPassFrontmatter":true}
 ---
 
 ![练习题_if分支控制_1.png](/img/user/Pictures/%E7%BB%83%E4%B9%A0%E9%A2%98_if%E5%88%86%E6%94%AF%E6%8E%A7%E5%88%B6_1.png) 
