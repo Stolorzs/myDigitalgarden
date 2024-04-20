@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","permalink":"/md-files/java/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":"true","permalink":"/Md Files/Java笔记/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
