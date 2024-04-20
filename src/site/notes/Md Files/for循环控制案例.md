@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/for/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/for循环控制案例/","dgPassFrontmatter":true}
 ---
 
 - **多次打印**
