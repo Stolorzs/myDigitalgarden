@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/if-else-switch/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/分支控制(if, else, switch)/","dgPassFrontmatter":true}
 ---
 
 - 让程序有选择的执行
