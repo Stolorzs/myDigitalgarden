@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/switch/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/switch分支结构案例/","dgPassFrontmatter":true}
 ---
 
 ![switch分支结构案例1.png](/img/user/Pictures/switch%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84%E6%A1%88%E4%BE%8B1.png)
