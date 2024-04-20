@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/while/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/while循环控制案例/","dgPassFrontmatter":true}
 ---
 
 **10句**
