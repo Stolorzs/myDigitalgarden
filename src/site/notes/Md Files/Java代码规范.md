@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/md-files/java/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Md Files/Java代码规范/","dgPassFrontmatter":true}
 ---
 
 - [空降](https://www.bilibili.com/video/BV1fh411y7R8?t=341.6&p=26) 
