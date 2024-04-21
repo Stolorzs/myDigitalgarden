@@ -35,7 +35,7 @@ function getAnchorLink(filePath, linkTitle) {
 }
 
 function getAnchorAttributes(filePath, linkTitle) {
-  let fileName = filePath.replace(/&amp;/g, "&");
+  let fileName = filePath.replaceAll("&amp;", "&");
   let header = "";
   let headerLinkPath = "";
   if (filePath.includes("#")) {
