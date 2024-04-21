@@ -35,7 +35,6 @@ function getAnchorLink(filePath, linkTitle) {
 }
 
 function getAnchorAttributes(filePath, linkTitle) {
-  console.log(filePath); // 添加这行代码用于输出 filePath 变量的值
   let fileName = filePath.replaceAll("&amp;", "&");
   let header = "";
   let headerLinkPath = "";
